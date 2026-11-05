@@ -17,7 +17,7 @@ From the repository folder, run:
 run_all
 ```
 
-This runs every figure script and saves each figure window to `figures/` as PNG (300 dpi) and PDF. `figure3_abatement_costs` also prints the 2050 abatement costs quoted in the text (aluminum ≈ $9/t CO₂, steel ≈ $363/t CO₂).
+This runs every figure script and saves each figure window to `figures/` as PNG (300 dpi) and PDF. `figure2a_2b_costs_and_intensities` also prints the 2050 abatement costs quoted in the text (aluminum ≈ $9/t CO₂, steel ≈ $363/t CO₂).
 
 Each script can also be run on its own. First call `addpath('utils')`.
 
