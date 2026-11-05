@@ -1,4 +1,4 @@
-# Code for "The key to reducing steel emissions may be using aluminum instead"
+# Code for "Could steel emissions be reduced by substituting aluminum?"
 
 Samuel Faucher, Steven J. Davis, Juan B. García Martínez, Ian McKay
 
