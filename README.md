@@ -25,16 +25,6 @@ Each script can also be run on its own. First call `addpath('utils')`.
 
 Each script opens several MATLAB figure windows. Only some of them appear in the paper; the others are diagnostic or exploratory outputs of the same model.
 
-| Script | Paper figure | MATLAB figure no. | Other windows |
-|---|---|---|---|
-| `figure2_costs_and_intensities.m` | Fig. 2a, 2b | 1 → 2a; 2 → 2b | — |
-| `figure3_abatement_costs.m` | Fig. 3a–d | 1 → 3a; 2 → 3b; 6 → 3c, 3d | 3–5: cost, CO₂ and cost/CO₂ differences by route |
-| `figure4a_substitution_ratio.m` | Fig. 4a | 1 | — |
-| `figure4b_price_history.m` | Fig. 4b | 2 | 1: earlier version of the substitution-ratio plot |
-| `figure4c_production_vs_electricity.m` | Fig. 4c | 1 | — |
-| `figure4d_emissions_and_pies.m` | Fig. 4d | 1 → heatmap; 3 → pie charts | 2, 4–6, 10: exploratory |
-| `figureS1_green_steel_premium.m` | Supp. Fig. 1 | 1 | — |
-
 Helper functions are in `utils/`:
 
 - `rdylbu.m` is a red-yellow-blue colormap.
